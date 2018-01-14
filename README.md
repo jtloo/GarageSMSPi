@@ -17,8 +17,8 @@ The prices given are the ones at the time of writing and are subject to change. 
 
 - [Raspberry Pi Zero W Bundle](https://www.amazon.com/gp/product/B0748MBFTS/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1) - $25.99 (The bundle comes with a power supply, case, GPIO headers, and a heatsink)
 - [2 Channel Relay Module](https://www.amazon.com/gp/product/B0057OC6D8/ref=oh_aui_detailpage_o00_s01?ie=UTF8&psc=1) - $7.49
-- [Magnetic Switch](https://www.amazon.com/gp/product/B0009SUF08/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1) - $4.73
-- [Jumper Wires](https://www.amazon.com/gp/product/B077NH83CJ/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1) - $4.99
+- Jumper Wires
+- Magnetic Switch
 - 2 Conductor Wire
 - Soldering Iron and Solder (To solder GPIO header to Raspberry Pi Zero W)
 - Garage Door Remote - Optional (I needed to use one since my garage opener had a powered LCD control panel which would short if I connected the relay module to the garage terminals.)
